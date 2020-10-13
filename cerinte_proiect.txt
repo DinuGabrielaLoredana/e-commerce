@@ -4,8 +4,6 @@
 - admin vede produse si orders
 - plasare orders
 - filtre produse
-- mobile
 
-resource group -> add
 
-bookyard.azurewebsites.net/wp-login.php
+
