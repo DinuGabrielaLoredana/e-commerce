@@ -1,0 +1,67 @@
+﻿@model IEnumerable<Ecommerce_proiect_an4_sem1.Models.Order>
+
+@{
+    ViewData["Title"] = "Index";
+    if (this.User.IsInRole("User"))
+    {
+        Layout = "~/Views/Shared/_LayoutUser.cshtml";
+    }
+    else if (!this.User.Identity.IsAuthenticated)
+    {
+        Layout = "~/Views/Shared/_LayoutNotLogedIn.cshtml";
+    }
+    else
+    {
+        Layout = "~/Views/Shared/_Layout.cshtml";
+    }
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.HasBeenConfirmed)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Client)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductOrder)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Quantity)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.HasBeenConfirmed)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Client.Name)
+            </td>
+
+            <td>
+                @foreach (var product in item.ProductOrder)
+                {
+                    <p> @product.ProductIdFkNavigation.ProductName</p>
+                    <td> <p> @item.Quantity </p> </td>
+                }
+                </td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.OrderId">Details</a>
+                    @if (this.User.IsInRole("Admin"))
+                    {<a asp-action="ConfirmOrder" asp-route-id="@item.OrderId">Confirm Order</a>}
+                </td>
+            </tr>
+}
+    </tbody>
+</table>

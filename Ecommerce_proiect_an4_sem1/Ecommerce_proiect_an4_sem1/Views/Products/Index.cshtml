@@ -1,0 +1,74 @@
+﻿
+@model dynamic
+
+@{
+    ViewData["Title"] = "Index";
+    if (this.User.IsInRole("User"))
+    {
+        Layout = "~/Views/Shared/_LayoutUser.cshtml";
+    }
+    else if (!this.User.Identity.IsAuthenticated)
+    {
+        Layout = "~/Views/Shared/_LayoutNotLogedIn.cshtml";
+    }
+    else
+    {
+        Layout = "~/Views/Shared/_Layout.cshtml";
+    }
+}
+
+<h1>Index</h1>
+@if (this.User.IsInRole("Admin"))
+{
+    <p>
+        <a asp-action="Create">Create New</a>
+    </p>
+}
+<form asp-controller="Products" asp-action="Index">
+    <p>
+        Title: <input type="text" name="SearchString">
+        Min price: <input type="text" name="price1">
+        Max price: <input type="text" name="price2">
+        Category:  <select name="category">
+                       <option></option>
+    @foreach (var item in Model.Categoryes)
+    {
+        <option value="@item.CategoryName">@item.CategoryName</option>}
+</select> 
+       
+
+     
+        <input type="submit" value="Filter" />
+    </p>
+</form>
+
+<table class="table">
+    <tbody>
+        <div class="row">
+            @foreach (var item in Model.Products)
+            {
+
+            <div class="column">
+                <div class="card">
+                    <img src="@item.ProductPicture" width="100px" height="150px" class="center" />
+                    <h5> @item.ProductName</h5>
+                    <p class="price">
+                        Price:
+                        @if (@item.Sales == 0)
+                        {@item.Price}
+                    else
+                    {<font color="red">@item.Nprice</font>}
+                    </p>
+                    <p>@item.ProductDescription</p>
+                    <p><a asp-action="Details" asp-route-id="@item.ProductId">Details</a></p>
+                    <p><a asp-action="AddToCart" asp-route-id="@item.ProductId">Add To Cart</a></p>
+                    @if (this.User.IsInRole("Admin"))
+                    {<a asp-action="Edit" asp-route-id="@item.ProductId">Edit</a>}
+                </div>
+            </div>
+
+             }
+                
+            </div>
+</tbody>
+</table>

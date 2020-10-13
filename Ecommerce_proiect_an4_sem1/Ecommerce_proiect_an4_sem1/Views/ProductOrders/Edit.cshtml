@@ -1,0 +1,40 @@
+﻿@model Ecommerce_proiect_an4_sem1.Models.ProductOrder
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Edit</h1>
+
+<h4>ProductOrder</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="OrderIdFk" class="control-label"></label>
+                <select asp-for="OrderIdFk" class="form-control" asp-items="ViewBag.OrderIdFk"></select>
+                <span asp-validation-for="OrderIdFk" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ProductIdFk" class="control-label"></label>
+                <select asp-for="ProductIdFk" class="form-control" asp-items="ViewBag.ProductIdFk"></select>
+                <span asp-validation-for="ProductIdFk" class="text-danger"></span>
+            </div>
+            <input type="hidden" asp-for="IdProductOrder" />
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

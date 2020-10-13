@@ -1,0 +1,42 @@
+﻿@model IEnumerable<Ecommerce_proiect_an4_sem1.Models.ProductOrder>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.OrderIdFkNavigation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductIdFkNavigation)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.OrderIdFkNavigation.OrderId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductIdFkNavigation.ProductId)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.IdProductOrder">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.IdProductOrder">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.IdProductOrder">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

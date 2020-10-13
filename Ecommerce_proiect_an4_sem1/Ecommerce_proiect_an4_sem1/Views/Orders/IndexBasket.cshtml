@@ -1,0 +1,66 @@
+﻿@model IEnumerable<Ecommerce_proiect_an4_sem1.Models.Order>
+
+@{
+    ViewData["Title"] = "IndexBasket";
+    if (this.User.IsInRole("User"))
+    {
+        Layout = "~/Views/Shared/_LayoutUser.cshtml";
+    }
+    else if (!this.User.Identity.IsAuthenticated)
+    {
+        Layout = "~/Views/Shared/_LayoutNotLogedIn.cshtml";
+    }
+    else
+    {
+        Layout = "~/Views/Shared/_Layout.cshtml";
+    }
+    decimal total = 0;
+}
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductOrder)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @foreach (var product in item.ProductOrder)
+                {
+                <td>
+                    <p> @product.ProductIdFkNavigation.ProductName</p>
+                </td>
+                <td>
+                    <p> @product.ProductIdFkNavigation.Price $</p>
+
+                    <p style="display:none"> @( total = total + (@product.ProductIdFkNavigation.Price * item.Quantity) )<p>
+                </td>
+                <td>
+                    <a asp-action="DecrementOrder" asp-route-id="@item.OrderId">-</a> @item.Quantity <a asp-action="IncrementOrder" asp-route-id="@item.OrderId">+</a>
+                </td>
+            }
+                </td>
+                <td>
+                    <a asp-action="PlaceOrder" asp-route-id="@item.OrderId">Place Order</a>
+                    <a asp-action="Delete" asp-route-id="@item.OrderId">Delete</a>
+                </td>
+
+            </tr>
+}
+       
+    </tbody>
+</table>
+
+
+<p>
+    Total: @total  $
+</p>

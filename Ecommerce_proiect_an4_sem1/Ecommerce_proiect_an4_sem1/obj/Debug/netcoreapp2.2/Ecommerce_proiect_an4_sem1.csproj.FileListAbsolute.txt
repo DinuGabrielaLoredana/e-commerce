@@ -1,0 +1,320 @@
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\bin\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.deps.json
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\bin\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.runtimeconfig.json
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\bin\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.runtimeconfig.dev.json
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\bin\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.dll
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\bin\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.pdb
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\bin\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.Views.dll
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\bin\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.Views.pdb
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.csprojAssemblyReference.cache
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.csproj.CoreCompileInputs.cache
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.RazorAssemblyInfo.cache
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.RazorAssemblyInfo.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.AssemblyInfoInputs.cache
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.AssemblyInfo.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.TagHelpers.input.cache
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.TagHelpers.output.cache
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.RazorCoreGenerate.cache
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.RazorTargetAssemblyInfo.cache
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.RazorTargetAssemblyInfo.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.Views.pdb
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.dll
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.pdb
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.csproj.CopyComplete
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\AccessDenied.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ConfirmEmail.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ExternalLogin.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPassword.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Lockout.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWith2fa.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Index.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_Layout.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPassword.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Error.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Create.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Delete.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Details.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Edit.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Index.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Orders\Create.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Orders\Delete.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Orders\Details.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Orders\Edit.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Orders\Index.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Products\Create.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Products\Delete.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Products\Details.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Products\Edit.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Products\Index.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Roles\Create.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Roles\Delete.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Roles\Details.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Roles\Edit.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Roles\Index.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\StockEntries\Create.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\StockEntries\Delete.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\StockEntries\Details.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\StockEntries\Edit.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\StockEntries\Index.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Users\Create.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Users\Delete.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Users\Details.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Users\Edit.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Users\Index.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\ProductOrders\Create.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\ProductOrders\Delete.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\ProductOrders\Details.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\ProductOrders\Edit.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\ProductOrders\Index.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\bin\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.deps.json
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\bin\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.runtimeconfig.json
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\bin\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.runtimeconfig.dev.json
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\bin\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.dll
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\bin\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.pdb
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\bin\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.Views.dll
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\bin\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.Views.pdb
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.csprojAssemblyReference.cache
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.csproj.CoreCompileInputs.cache
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.RazorAssemblyInfo.cache
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.RazorAssemblyInfo.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.AssemblyInfoInputs.cache
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.AssemblyInfo.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.TagHelpers.input.cache
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.TagHelpers.output.cache
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.RazorCoreGenerate.cache
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\AccessDenied.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ConfirmEmail.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ExternalLogin.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPassword.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Lockout.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWith2fa.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Index.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_Layout.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPassword.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Error.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Create.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Delete.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Details.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Edit.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Index.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Orders\Create.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Orders\Delete.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Orders\Details.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Orders\Edit.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Orders\Index.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Products\Create.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Products\Delete.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Products\Details.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Products\Edit.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Products\Index.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Roles\Create.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Roles\Delete.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Roles\Details.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Roles\Edit.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Roles\Index.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\StockEntries\Create.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\StockEntries\Delete.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\StockEntries\Details.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\StockEntries\Edit.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\StockEntries\Index.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Users\Create.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Users\Delete.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Users\Details.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Users\Edit.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Users\Index.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.RazorTargetAssemblyInfo.cache
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.RazorTargetAssemblyInfo.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.Views.pdb
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.dll
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.pdb
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.csproj.CopyComplete
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\ProductCategories\Create.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\ProductCategories\Delete.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\ProductCategories\Details.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\ProductCategories\Edit.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\ProductCategories\Index.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\ProductOrders\Create.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\ProductOrders\Delete.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\ProductOrders\Details.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\ProductOrders\Edit.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\ProductOrders\Index.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Orders\IndexBasket.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutUser.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutNotLogedIn.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\project\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Products\IndexSales.g.cshtml.cs
+E:\automatica\automaticaAn4\sem1\proiect an 3 sem 1\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.dll
+E:\automatica\automaticaAn4\sem1\proiect an 3 sem 1\Eshop git\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.pdb
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\bin\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.deps.json
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\bin\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.runtimeconfig.json
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\bin\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.runtimeconfig.dev.json
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\bin\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.dll
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\bin\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.pdb
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\bin\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.Views.dll
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\bin\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.Views.pdb
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.csprojAssemblyReference.cache
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.csproj.CoreCompileInputs.cache
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.RazorAssemblyInfo.cache
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.RazorAssemblyInfo.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.AssemblyInfoInputs.cache
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.AssemblyInfo.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.TagHelpers.input.cache
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.TagHelpers.output.cache
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.RazorCoreGenerate.cache
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\AccessDenied.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ConfirmEmail.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ExternalLogin.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPassword.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Lockout.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWith2fa.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Index.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_Layout.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPassword.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Error.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Create.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Delete.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Details.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Edit.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Index.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Orders\Create.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Orders\Delete.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Orders\Details.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Orders\Edit.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Orders\Index.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Orders\IndexBasket.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\ProductCategories\Create.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\ProductCategories\Delete.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\ProductCategories\Details.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\ProductCategories\Edit.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\ProductCategories\Index.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\ProductOrders\Create.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\ProductOrders\Delete.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\ProductOrders\Details.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\ProductOrders\Edit.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\ProductOrders\Index.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Products\Create.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Products\Delete.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Products\Details.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Products\Edit.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Products\Index.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Products\IndexSales.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Roles\Create.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Roles\Delete.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Roles\Details.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Roles\Edit.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Roles\Index.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutNotLogedIn.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutUser.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\StockEntries\Create.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\StockEntries\Delete.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\StockEntries\Details.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\StockEntries\Edit.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\StockEntries\Index.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Users\Create.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Users\Delete.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Users\Details.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Users\Edit.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\Users\Index.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.RazorTargetAssemblyInfo.cache
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.RazorTargetAssemblyInfo.cs
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.Views.pdb
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.dll
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.pdb
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.csproj.CopyComplete
