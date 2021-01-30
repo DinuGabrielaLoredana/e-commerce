@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
@@ -9,7 +8,6 @@ using Ecommerce_proiect_an4_sem1.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using System.Security.Claims;
-using Microsoft.EntityFrameworkCore.Query;
 
 namespace Ecommerce_proiect_an4_sem1.Controllers
 {
@@ -40,8 +38,7 @@ namespace Ecommerce_proiect_an4_sem1.Controllers
                 IQueryable<Order> ecommerceContext = null;
                 var currentClient = _httpContextAccessor.HttpContext.User.FindFirst(ClaimTypes.NameIdentifier).Value;
                 ecommerceContext = _context.Order.Include(o => o.Client).Include(p => p.ProductOrder).ThenInclude(x => x.ProductIdFkNavigation).Where(y => y.ClientId == currentClient).Where(z => z.HasBeenPlaced == 1).OrderBy(s => s.HasBeenConfirmed);
-                return View(await ecommerceContext.ToListAsync()); ;
-                return View(await ecommerceContext.ToListAsync());
+                return View(await ecommerceContext.ToListAsync()); 
             }
         }
 
@@ -68,7 +65,7 @@ namespace Ecommerce_proiect_an4_sem1.Controllers
         // GET: Orders/Details/5
         public async Task<IActionResult> Details(string id)
         {
-            if (id == null)
+            if (null == id)
             {
                 return NotFound();
             }
@@ -174,7 +171,7 @@ namespace Ecommerce_proiect_an4_sem1.Controllers
 
             var order = await _context.Order
                 .Include(o => o.Client)
-                .FirstOrDefaultAsync(m => m.OrderId == id);
+                .FirstAsync(m => m.OrderId == id);
             if (order == null)
             {
                 return NotFound();

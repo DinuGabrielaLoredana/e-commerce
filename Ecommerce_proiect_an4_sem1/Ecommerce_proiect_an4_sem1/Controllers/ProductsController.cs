@@ -44,18 +44,8 @@ namespace Ecommerce_proiect_an4_sem1.Controllers
 
             mymodel.Categoryes = from m in _context.Category select m;
 
-            if (!String.IsNullOrEmpty(searchString))
-            {
-                products = products.Where(s => s.ProductName.Contains(searchString));
-            }
-            if (price1 != 0 )
-            {
-                products = products.Where(s => s.Price >= price1);
-            }
-            if(price2 != 0)
-            {
-                products = products.Where(s => s.Price <= price2);
-            }
+            products = filterProductsByPrice(products, searchString, price1, price2);
+            
             if (!String.IsNullOrEmpty(category))
             {
                 List<Product> prod = new List<Product>();
@@ -78,7 +68,23 @@ namespace Ecommerce_proiect_an4_sem1.Controllers
             return View(mymodel);
         }
 
-      
+        private IQueryable<Product> filterProductsByPrice(IQueryable<Product> products, string searchString, decimal price1, decimal price2)
+        {
+            if (!String.IsNullOrEmpty(searchString))
+            {
+                products = products.Where(s => s.ProductName.Contains(searchString));
+            }
+            if (price1 != 0)
+            {
+                products = products.Where(s => s.Price >= price1);
+            }
+            if (price2 != 0)
+            {
+                products = products.Where(s => s.Price <= price2);
+            }
+            return products;
+        }
+
 
         // GET: Sales
         [ActionName("IndexSales")]
@@ -100,18 +106,8 @@ namespace Ecommerce_proiect_an4_sem1.Controllers
             dynamic mymodel = new ExpandoObject();
             mymodel.Categoryes = from m in _context.Category select m;
 
-            if (!String.IsNullOrEmpty(searchString))
-            {
-                products = products.Where(s => s.ProductName.Contains(searchString));
-            }
-            if (price1 != 0)
-            {
-                products = products.Where(s => s.Price >= price1);
-            }
-            if (price2 != 0)
-            {
-                products = products.Where(s => s.Price <= price2);
-            }
+            products = filterProductsByPrice(products, searchString, price1, price2);
+
             if (!String.IsNullOrEmpty(category))
             {
                 List<Product> prod = new List<Product>();
@@ -119,16 +115,8 @@ namespace Ecommerce_proiect_an4_sem1.Controllers
                 foreach (var categoryId in categoryIds)
                 {
                     var filteredProducts = products.Where(s => s.ProductCategory.Contains(categoryId));
-                    foreach (var p in filteredProducts)
-                    {
-                        foreach (var stock in stocks)
-                        {
-                            if (stock.ProductId == p.ProductId && stock.RemainingStock > 0)
-                            {
-                                prod.Add(p);
-                            }
-                        }
-                    }
+                    prod = filterProductsByStock(filteredProducts, stocks);
+                    
                 }
                 mymodel.Products = prod;
                 return View(mymodel);
@@ -136,6 +124,22 @@ namespace Ecommerce_proiect_an4_sem1.Controllers
 
             mymodel.Products = await products.ToListAsync();
             return View(mymodel);
+        }
+
+        private List<Product> filterProductsByStock(IQueryable<Product> filteredProducts, IQueryable<StockEntry> stocks)
+        {
+            List<Product> prod = new List<Product>();
+            foreach (var p in filteredProducts)
+            {
+                foreach (var stock in stocks)
+                {
+                    if (stock.ProductId == p.ProductId && stock.RemainingStock > 0)
+                    {
+                        prod.Add(p);
+                    }
+                }
+            }
+            return prod;
         }
 
         // GET: Products/Details/5
@@ -239,14 +243,14 @@ namespace Ecommerce_proiect_an4_sem1.Controllers
         // GET: Products/Delete/5
         public async Task<IActionResult> Delete(string id)
         {
-            if (id == null)
+            if (null == id)
             {
                 return NotFound();
             }
 
             var product = await _context.Product
                 .FirstOrDefaultAsync(m => m.ProductId == id);
-            if (product == null)
+            if (null == product)
             {
                 return NotFound();
             }

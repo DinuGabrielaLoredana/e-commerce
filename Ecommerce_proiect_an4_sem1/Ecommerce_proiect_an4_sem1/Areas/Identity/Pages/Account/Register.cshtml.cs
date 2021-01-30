@@ -1,16 +1,13 @@
 ﻿using System;
-using System.Collections.Generic;
+
 using System.ComponentModel.DataAnnotations;
-using System.Security.Claims;
-using System.Text.Encodings.Web;
+
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
-using Microsoft.AspNetCore.Identity.UI.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Logging;
-using Ecommerce_proiect_an4_sem1.Models;
 using System.Data.SqlClient;
 using Newtonsoft.Json.Linq;
 using System.IO;
@@ -23,18 +20,14 @@ namespace Ecommerce_proiect_an4_sem1.Areas.Identity.Pages.Account
         private readonly SignInManager<IdentityUser> _signInManager;
         private readonly UserManager<IdentityUser> _userManager;
         private readonly ILogger<RegisterModel> _logger;
-      //  private readonly IEmailSender _emailSender;
-
         public RegisterModel(
             UserManager<IdentityUser> userManager,
             SignInManager<IdentityUser> signInManager,
             ILogger<RegisterModel> logger)
-        //    IEmailSender emailSender)
         {
             _userManager = userManager;
             _signInManager = signInManager;
             _logger = logger;
-         //   _emailSender = emailSender;
         }
 
         [BindProperty]
@@ -81,14 +74,13 @@ namespace Ecommerce_proiect_an4_sem1.Areas.Identity.Pages.Account
                     var jsonString = System.IO.File.ReadAllText(@"database_settings.json");
                     var myJObject = JObject.Parse(jsonString);
                     var connectionString = @myJObject.SelectToken("DatabasePath").Value<string>();
-                   // string connectionString = @"Server=DESKTOP-SK86D78\SQLEXPRESS;Database=Ecommerce;Trusted_Connection=True;ConnectRetryCount=0";
-                    SqlCommand command2 = new SqlCommand(mySqlStatement2);
+                   SqlCommand command2 = new SqlCommand(mySqlStatement2);
             
                     using (SqlConnection cnn = new SqlConnection(connectionString))
                     {
                         command2.Connection = cnn;
                         cnn.Open();
-                        int recordsAffected = command2.ExecuteNonQuery();
+                        command2.ExecuteNonQuery();
                         cnn.Close();
                     }
 
@@ -99,7 +91,7 @@ namespace Ecommerce_proiect_an4_sem1.Areas.Identity.Pages.Account
                     {
                         command3.Connection = cnn;
                         cnn.Open();
-                        int recordsAffected = command3.ExecuteNonQuery();
+                        command3.ExecuteNonQuery();
                         cnn.Close();
                     }
 

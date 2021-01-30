@@ -43,6 +43,12 @@
 </form>
 
 <table class="table">
+    <caption></caption>
+    <thead>
+        <tr>
+            <th scope="col"></th>
+        </tr>
+    </thead>
     <tbody>
         <div class="row">
             @foreach (var item in Model.Products)
@@ -50,14 +56,14 @@
 
             <div class="column">
                 <div class="card">
-                    <img src="@item.ProductPicture" width="100px" height="150px" class="center" />
+                    <img src="@item.ProductPicture" width="100px" height="150px" class="center" alt="Product"/>
                     <h5> @item.ProductName</h5>
                     <p class="price">
                         Price:
                         @if (@item.Sales == 0)
                         {@item.Price}
                     else
-                    {<font color="red">@item.Nprice</font>}
+                    {<span color="red">@item.Nprice</span>}
                     </p>
                     <p>@item.ProductDescription</p>
                     <p><a asp-action="Details" asp-route-id="@item.ProductId">Details</a></p>

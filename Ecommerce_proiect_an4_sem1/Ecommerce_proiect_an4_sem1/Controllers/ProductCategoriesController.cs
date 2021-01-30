@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
@@ -28,7 +27,7 @@ namespace Ecommerce_proiect_an4_sem1.Controllers
         // GET: ProductCategories/Details/5
         public async Task<IActionResult> Details(string id)
         {
-            if (id == null)
+            if (null == id)
             {
                 return NotFound();
             }
@@ -138,7 +137,7 @@ namespace Ecommerce_proiect_an4_sem1.Controllers
             var productCategory = await _context.ProductCategory
                 .Include(p => p.Category)
                 .Include(p => p.Product)
-                .FirstOrDefaultAsync(m => m.IdProductCategory == id);
+                .FirstAsync(m => m.IdProductCategory == id);
             if (productCategory == null)
             {
                 return NotFound();

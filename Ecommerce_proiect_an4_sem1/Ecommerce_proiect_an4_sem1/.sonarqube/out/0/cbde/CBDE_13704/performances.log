@@ -1,0 +1,440 @@
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Areas\Identity\IdentityHostingStartup.cs
+Configure 46
+Configure -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Areas\Identity\Pages\Account\AccessDenied.cshtml.cs
+OnGet 43
+OnGet -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.cs
+OnGetAsync 7
+OnGetAsync -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Areas\Identity\Pages\Account\ExternalLogin.cshtml.cs
+OnGetAsync 48
+OnGetAsync -1
+OnPost 23
+OnPost -1
+OnGetCallbackAsync 8
+OnGetCallbackAsync -1
+OnPostConfirmationAsync 39
+OnPostConfirmationAsync -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Areas\Identity\Pages\Account\ForgotPassword.cshtml.cs
+OnPostAsync 7
+OnPostAsync -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.cs
+OnGet 7
+OnGet -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Areas\Identity\Pages\Account\Lockout.cshtml.cs
+OnGet 25
+OnGet -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Areas\Identity\Pages\Account\Login.cshtml.cs
+OnGetAsync 6
+OnGetAsync -1
+OnPostAsync 7
+OnPostAsync -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.cs
+OnGetAsync 7
+OnGetAsync -1
+OnPostAsync 42
+OnPostAsync -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.cs
+OnGetAsync 8
+OnGetAsync -1
+OnPostAsync 7
+OnPostAsync -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Areas\Identity\Pages\Account\Logout.cshtml.cs
+OnGet 7
+OnGet -1
+OnPost 7
+OnPost -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.cs
+OnGetAsync 7
+OnGetAsync -1
+OnPostAsync 18
+OnPostAsync -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.cs
+OnGet 7
+OnGet -1
+OnPostAsync 8
+OnPostAsync -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.cs
+OnGet 30
+OnGet -1
+OnPostAsync 8
+OnPostAsync -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.cs
+OnPostAsync 8
+OnPostAsync -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.cs
+OnGetAsync 7
+OnGetAsync -1
+OnPostAsync 20
+OnPostAsync -1
+LoadSharedKeyAndQrCodeUriAsync 7
+LoadSharedKeyAndQrCodeUriAsync -1
+FormatKey 35
+FormatKey -1
+GenerateQrCodeUri 17
+GenerateQrCodeUri -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.cs
+OnGetAsync 14
+OnGetAsync -1
+OnPostRemoveLoginAsync 11
+OnPostRemoveLoginAsync -1
+OnPostLinkLoginAsync 7
+OnPostLinkLoginAsync -1
+OnGetLinkLoginCallbackAsync 7
+OnGetLinkLoginCallbackAsync -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.cs
+OnGetAsync 32
+OnGetAsync -1
+OnPostAsync 7
+OnPostAsync -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Areas\Identity\Pages\Account\Manage\Index.cshtml.cs
+OnGetAsync 8
+OnGetAsync -1
+OnPostAsync 9
+OnPostAsync -1
+OnPostSendVerificationEmailAsync 30
+OnPostSendVerificationEmailAsync -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Areas\Identity\Pages\Account\Manage\ManageNavPages.cs
+IndexNavClass 7
+IndexNavClass -1
+ChangePasswordNavClass 7
+ChangePasswordNavClass -1
+ExternalLoginsNavClass 7
+ExternalLoginsNavClass -1
+PersonalDataNavClass 35
+PersonalDataNavClass -1
+TwoFactorAuthenticationNavClass 7
+TwoFactorAuthenticationNavClass -1
+PageNavClass 8
+PageNavClass -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.cs
+OnGet 30
+OnGet -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.cs
+OnGet 7
+OnGet -1
+OnPostAsync 8
+OnPostAsync -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.cs
+OnGetAsync 7
+OnGetAsync -1
+OnPostAsync 24
+OnPostAsync -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.cs
+OnGet 7
+OnGet -1
+OnPost 7
+OnPost -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Areas\Identity\Pages\Account\Register.cshtml.cs
+OnGet 21
+OnGet -1
+OnPostAsync 8
+OnPostAsync -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Areas\Identity\Pages\Account\ResetPassword.cshtml.cs
+OnGet 10
+OnGet -1
+OnPostAsync 8
+OnPostAsync -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.cs
+OnGet 7
+OnGet -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Areas\Identity\Pages\Error.cshtml.cs
+OnGet 8
+OnGet -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Controllers\CategoriesController.cs
+Index 7
+Index -1
+Details 29
+Details -1
+Create 8
+Create -1
+Create 9
+Create -1
+Edit 8
+Edit -1
+Edit 52
+Edit -1
+Delete 6
+Delete -1
+DeleteConfirmed 27
+DeleteConfirmed -1
+CategoryExists 10
+CategoryExists -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Controllers\HomeController.cs
+Index 21
+Index -1
+Privacy 9
+Privacy -1
+Error 7
+Error -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Controllers\OrdersController.cs
+Index 6
+Index -1
+IndexBasket 21
+IndexBasket -1
+Details 6
+Details -1
+Create 10
+Create -1
+Create 7
+Create -1
+Edit 29
+Edit -1
+Edit 7
+Edit -1
+Delete 7
+Delete -1
+DeleteConfirmed 21
+DeleteConfirmed -1
+OrderExists 16
+OrderExists -1
+ConfirmOrder 11
+ConfirmOrder -1
+PlaceOrder 11
+PlaceOrder -1
+DecrementOrder 7
+DecrementOrder -1
+IncrementOrder 51
+IncrementOrder -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Controllers\ProductCategoriesController.cs
+Index 7
+Index -1
+Details 6
+Details -1
+Create 15
+Create -1
+Create 33
+Create -1
+Edit 7
+Edit -1
+Edit 9
+Edit -1
+Delete 7
+Delete -1
+DeleteConfirmed 17
+DeleteConfirmed -1
+ProductCategoryExists 13
+ProductCategoryExists -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Controllers\ProductOrdersController.cs
+Index 7
+Index -1
+Details 9
+Details -1
+Create 24
+Create -1
+Create 12
+Create -1
+Edit 11
+Edit -1
+Edit 9
+Edit -1
+Delete 41
+Delete -1
+DeleteConfirmed 6
+DeleteConfirmed -1
+ProductOrderExists 7
+ProductOrderExists -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Controllers\ProductsController.cs
+Index 6
+Index -1
+IndexSales 23
+IndexSales -1
+Details 7
+Details -1
+Create 10
+Create -1
+Create 7
+Create -1
+Edit 35
+Edit -1
+Edit 10
+Edit -1
+Delete 6
+Delete -1
+DeleteConfirmed 7
+DeleteConfirmed -1
+ProductExists 6
+ProductExists -1
+AddToCart 18
+AddToCart -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Controllers\RolesController.cs
+Index 23
+Index -1
+Details 11
+Details -1
+Create 32
+Create -1
+Create 8
+Create -1
+Edit 7
+Edit -1
+Edit 8
+Edit -1
+Delete 9
+Delete -1
+DeleteConfirmed 14
+DeleteConfirmed -1
+RoleExists 12
+RoleExists -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Controllers\StockEntriesController.cs
+Index 7
+Index -1
+Details 45
+Details -1
+Create 13
+Create -1
+Create 7
+Create -1
+Edit 7
+Edit -1
+Edit 17
+Edit -1
+Delete 8
+Delete -1
+DeleteConfirmed 9
+DeleteConfirmed -1
+StockEntryExists 9
+StockEntryExists -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Controllers\UsersController.cs
+Index 46
+Index -1
+Details 7
+Details -1
+Create 10
+Create -1
+Create 8
+Create -1
+Edit 29
+Edit -1
+Edit 30
+Edit -1
+Delete 7
+Delete -1
+DeleteConfirmed 14
+DeleteConfirmed -1
+UserExists 49
+UserExists -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Migrations\20191109090716_addedIdentity.cs
+Up 18
+Up -1
+Down 13
+Down -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Migrations\20191109090716_addedIdentity.Designer.cs
+BuildTargetModel 33
+BuildTargetModel -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Migrations\20191109091815_addedIdentity1.cs
+Up 12
+Up -1
+Down 7
+Down -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Migrations\20191109091815_addedIdentity1.Designer.cs
+BuildTargetModel 7
+BuildTargetModel -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Migrations\20191109093339_addedIdentity2.cs
+Up 8
+Up -1
+Down 8
+Down -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Migrations\20191109093339_addedIdentity2.Designer.cs
+BuildTargetModel 7
+BuildTargetModel -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Migrations\20191109100253_addedIdentity3.cs
+Up 48
+Up -1
+Down 13
+Down -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Migrations\20191109100253_addedIdentity3.Designer.cs
+BuildTargetModel 7
+BuildTargetModel -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Migrations\EcommerceContextModelSnapshot.cs
+BuildModel 7
+BuildModel -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Models\Category.cs
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Models\EcommerceContext.cs
+OnConfiguring 10
+OnConfiguring -1
+OnModelCreating 6
+OnModelCreating -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Models\ErrorViewModel.cs
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Models\Order.cs
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Models\Product.cs
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Models\ProductCategory.cs
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Models\ProductOrder.cs
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Models\Role.cs
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Models\StockEntry.cs
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Models\User.cs
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Program.cs
+Main 9
+Main -1
+CreateWebHostBuilder 6
+CreateWebHostBuilder -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\Startup.cs
+ConfigureServices 7
+ConfigureServices -1
+Configure 7
+Configure -1
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\.NETCoreApp,Version=v2.2.AssemblyAttributes.cs
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.AssemblyInfo.cs
+
+E:\automatica\automaticaMasterAn1\msic\ecommerce\Ecommerce_proiect_an4_sem1\Ecommerce_proiect_an4_sem1\obj\Debug\netcoreapp2.2\Ecommerce_proiect_an4_sem1.RazorAssemblyInfo.cs
+

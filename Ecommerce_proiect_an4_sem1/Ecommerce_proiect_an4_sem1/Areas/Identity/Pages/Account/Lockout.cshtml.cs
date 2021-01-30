@@ -1,9 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Authorization;
+﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using System;
 
 namespace Ecommerce_proiect_an4_sem1.Areas.Identity.Pages.Account
 {
@@ -12,7 +9,7 @@ namespace Ecommerce_proiect_an4_sem1.Areas.Identity.Pages.Account
     {
         public void OnGet()
         {
-
+            throw new NotSupportedException();
         }
     }
 }

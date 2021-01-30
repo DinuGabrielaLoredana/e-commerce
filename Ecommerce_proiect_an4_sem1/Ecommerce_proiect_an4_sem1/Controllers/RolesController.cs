@@ -1,9 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Ecommerce_proiect_an4_sem1.Models;
 
@@ -27,7 +24,7 @@ namespace Ecommerce_proiect_an4_sem1.Controllers
         // GET: Roles/Details/5
         public async Task<IActionResult> Details(int? id)
         {
-            if (id == null)
+            if (null == id)
             {
                 return NotFound();
             }

@@ -22,46 +22,47 @@
     <a asp-action="Create">Create New</a>
 </p>
 <table class="table">
+    <caption></caption>
     <thead>
         <tr>
-            <th>
+            <th scope="col">
                 @Html.DisplayNameFor(model => model.HasBeenConfirmed)
             </th>
-            <th>
+            <th scope="col">
                 @Html.DisplayNameFor(model => model.Client)
             </th>
-            <th>
+            <th scope="col">
                 @Html.DisplayNameFor(model => model.ProductOrder)
             </th>
-            <th>
+            <th scope="col">
                 @Html.DisplayNameFor(model => model.Quantity)
             </th>
-            <th></th>
+            <th scope="col"></th>
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.HasBeenConfirmed)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Client.Name)
-            </td>
-
-            <td>
-                @foreach (var product in item.ProductOrder)
-                {
-                    <p> @product.ProductIdFkNavigation.ProductName</p>
-                    <td> <p> @item.Quantity </p> </td>
-                }
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.HasBeenConfirmed)
                 </td>
                 <td>
-                    <a asp-action="Details" asp-route-id="@item.OrderId">Details</a>
-                    @if (this.User.IsInRole("Admin"))
-                    {<a asp-action="ConfirmOrder" asp-route-id="@item.OrderId">Confirm Order</a>}
+                    @Html.DisplayFor(modelItem => item.Client.Name)
                 </td>
-            </tr>
-}
+                <td>
+                    @foreach (var product in item.ProductOrder)
+                    {
+                        <p> @product.ProductIdFkNavigation.ProductName</p>
+                    <td> <p> @item.Quantity </p> </td>
+                }
+                    </td>
+                    <td>
+                        <a asp-action="Details" asp-route-id="@item.OrderId">Details</a>
+                        @if (this.User.IsInRole("Admin"))
+                        {<a asp-action="ConfirmOrder" asp-route-id="@item.OrderId">Confirm Order</a>}
+                    </td>
+                </tr>
+            }
     </tbody>
 </table>

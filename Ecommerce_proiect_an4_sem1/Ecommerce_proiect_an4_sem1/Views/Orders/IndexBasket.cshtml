@@ -22,41 +22,41 @@
     <a asp-action="Create">Create New</a>
 </p>
 <table class="table">
+    <caption></caption>
     <thead>
         <tr>
-            <th>
+            <th scope="col">
                 @Html.DisplayNameFor(model => model.ProductOrder)
             </th>
-            <th></th>
+            <th scope="col"></th>
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @foreach (var product in item.ProductOrder)
-                {
+        @foreach (var item in Model)
+        {
+            <tr>
                 <td>
-                    <p> @product.ProductIdFkNavigation.ProductName</p>
-                </td>
-                <td>
-                    <p> @product.ProductIdFkNavigation.Price $</p>
-
-                    <p style="display:none"> @( total = total + (@product.ProductIdFkNavigation.Price * item.Quantity) )<p>
-                </td>
-                <td>
-                    <a asp-action="DecrementOrder" asp-route-id="@item.OrderId">-</a> @item.Quantity <a asp-action="IncrementOrder" asp-route-id="@item.OrderId">+</a>
-                </td>
+                    @foreach (var product in item.ProductOrder)
+                    {
+                    <td>
+                        <p> @product.ProductIdFkNavigation.ProductName</p>
+                    </td>
+                    <td>
+                        <p> @product.ProductIdFkNavigation.Price $</p>
+                        <p style="display:none"> @( total = total + (@product.ProductIdFkNavigation.Price * item.Quantity) )<p>
+                    </td>
+                    <td>
+                        <a asp-action="DecrementOrder" asp-route-id="@item.OrderId">-</a> @item.Quantity <a asp-action="IncrementOrder" asp-route-id="@item.OrderId">+</a>
+                    </td>
+                }
+                    </td>
+                    <td>
+                        <a asp-action="PlaceOrder" asp-route-id="@item.OrderId">Place Order</a>
+                        <a asp-action="Delete" asp-route-id="@item.OrderId">Delete</a>
+                    </td>
+                </tr>
             }
-                </td>
-                <td>
-                    <a asp-action="PlaceOrder" asp-route-id="@item.OrderId">Place Order</a>
-                    <a asp-action="Delete" asp-route-id="@item.OrderId">Delete</a>
-                </td>
 
-            </tr>
-}
-       
     </tbody>
 </table>
 

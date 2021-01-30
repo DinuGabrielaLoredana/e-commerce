@@ -11,15 +11,16 @@
     <a asp-action="Create">Create New</a>
 </p>
 <table class="table">
+    <caption></caption>
     <thead>
         <tr>
-            <th>
+            <th scope="col">
                 @Html.DisplayNameFor(model => model.Category)
             </th>
-            <th>
+            <th scope="col">
                 @Html.DisplayNameFor(model => model.Product)
             </th>
-            <th></th>
+            <th scope="col"></th>
         </tr>
     </thead>
     <tbody>

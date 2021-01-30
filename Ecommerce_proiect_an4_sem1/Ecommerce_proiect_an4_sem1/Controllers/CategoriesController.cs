@@ -1,9 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Ecommerce_proiect_an4_sem1.Models;
 using Microsoft.AspNetCore.Authorization;
@@ -127,8 +125,8 @@ namespace Ecommerce_proiect_an4_sem1.Controllers
             }
 
             var category = await _context.Category
-                .FirstOrDefaultAsync(m => m.CategoryId == id);
-            if (category == null)
+                .FirstAsync(m => m.CategoryId == id);
+            if (null == category)
             {
                 return NotFound();
             }

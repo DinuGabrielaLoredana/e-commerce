@@ -1,8 +1,6 @@
-﻿using System;
-using Microsoft.AspNetCore.Identity;
+﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Metadata;
 using Newtonsoft.Json.Linq;
 
 namespace Ecommerce_proiect_an4_sem1.Models
@@ -32,7 +30,6 @@ namespace Ecommerce_proiect_an4_sem1.Models
         {
             if (!optionsBuilder.IsConfigured)
             {
-#warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
                 var jsonString = System.IO.File.ReadAllText(@"database_settings.json");
                 var myJObject = JObject.Parse(jsonString);
                 var connectionString = @myJObject.SelectToken("DatabasePath").Value<string>();
@@ -40,13 +37,13 @@ namespace Ecommerce_proiect_an4_sem1.Models
             }
         }
 
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        protected override void OnModelCreating(ModelBuilder builder)
         {
-            base.OnModelCreating(modelBuilder);
+            base.OnModelCreating(builder);
 
-            modelBuilder.HasAnnotation("ProductVersion", "2.2.2-servicing-10034");
-           
-            modelBuilder.Entity<Category>(entity =>
+            builder.HasAnnotation("ProductVersion", "2.2.2-servicing-10034");
+
+            builder.Entity<Category>(entity =>
             {
                 entity.Property(e => e.CategoryId)
                     .HasColumnName("category_id")
@@ -60,7 +57,7 @@ namespace Ecommerce_proiect_an4_sem1.Models
                     .IsUnicode(false);
             });
 
-            modelBuilder.Entity<Order>(entity =>
+            builder.Entity<Order>(entity =>
             {
                 entity.Property(e => e.OrderId)
                     .HasColumnName("order_id")
@@ -85,7 +82,7 @@ namespace Ecommerce_proiect_an4_sem1.Models
                     .HasConstraintName("Order_fk0");
             });
 
-            modelBuilder.Entity<Product>(entity =>
+            builder.Entity<Product>(entity =>
             {
                 entity.Property(e => e.ProductId)
                     .HasColumnName("product_id")
@@ -120,7 +117,7 @@ namespace Ecommerce_proiect_an4_sem1.Models
                     .IsUnicode(false);
             });
 
-            modelBuilder.Entity<ProductCategory>(entity =>
+            builder.Entity<ProductCategory>(entity =>
             {
                 entity.HasKey(e => e.IdProductCategory)
                     .HasName("pk_IdProduct_Category");
@@ -154,7 +151,7 @@ namespace Ecommerce_proiect_an4_sem1.Models
                     .HasConstraintName("product_category_fk0");
             });
 
-            modelBuilder.Entity<ProductOrder>(entity =>
+            builder.Entity<ProductOrder>(entity =>
             {
                 entity.HasKey(e => e.IdProductOrder)
                     .HasName("pk_IdProductOrder");
@@ -186,7 +183,7 @@ namespace Ecommerce_proiect_an4_sem1.Models
                     .HasConstraintName("order_product_fk1");
             });
 
-            modelBuilder.Entity<Role>(entity =>
+            builder.Entity<Role>(entity =>
             {
                 entity.Property(e => e.RoleId)
                     .HasColumnName("role_id")
@@ -199,7 +196,7 @@ namespace Ecommerce_proiect_an4_sem1.Models
                     .IsUnicode(false);
             });
 
-            modelBuilder.Entity<StockEntry>(entity =>
+            builder.Entity<StockEntry>(entity =>
             {
                 entity.HasKey(e => e.StockId)
                     .HasName("PK_STOCK");
@@ -225,7 +222,7 @@ namespace Ecommerce_proiect_an4_sem1.Models
                     .HasConstraintName("stock_entry_fk0");
             });
 
-            modelBuilder.Entity<User>(entity =>
+            builder.Entity<User>(entity =>
             {
                 entity.Property(e => e.Id)
                     .HasColumnName("id")

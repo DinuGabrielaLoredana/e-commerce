@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
@@ -26,12 +25,9 @@ namespace Ecommerce_proiect_an4_sem1.Controllers
         // GET: Users
         public async Task<IActionResult> Index()
         {
-           
-            {
-                var currentClient = _httpContextAccessor.HttpContext.User.FindFirst(ClaimTypes.NameIdentifier).Value;
-                var ecommerceContext = _context.User.Where(y => y.Id == currentClient).Include(u => u.Role);
-                return View(await ecommerceContext.ToListAsync());
-            }
+            var currentClient = _httpContextAccessor.HttpContext.User.FindFirst(ClaimTypes.NameIdentifier).Value;
+            var ecommerceContext = _context.User.Where(y => y.Id == currentClient).Include(u => u.Role);
+            return View(await ecommerceContext.ToListAsync());    
         }
 
         // GET: Users/Details/5
@@ -135,7 +131,7 @@ namespace Ecommerce_proiect_an4_sem1.Controllers
         [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Delete(string id)
         {
-            if (id == null)
+            if (null == id)
             {
                 return NotFound();
             }

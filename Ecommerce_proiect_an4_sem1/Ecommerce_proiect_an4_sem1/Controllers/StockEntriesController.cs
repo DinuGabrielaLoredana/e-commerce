@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
@@ -30,7 +29,7 @@ namespace Ecommerce_proiect_an4_sem1.Controllers
         // GET: StockEntries/Details/5
         public async Task<IActionResult> Details(string id)
         {
-            if (id == null)
+            if (null == id)
             {
                 return NotFound();
             }

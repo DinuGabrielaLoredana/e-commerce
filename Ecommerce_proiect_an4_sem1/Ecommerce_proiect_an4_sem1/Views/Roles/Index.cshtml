@@ -11,26 +11,28 @@
     <a asp-action="Create">Create New</a>
 </p>
 <table class="table">
+    <caption></caption>
     <thead>
         <tr>
-            <th>
+            <th scope="col">
                 @Html.DisplayNameFor(model => model.Role1)
             </th>
-            <th></th>
+            <th scope="col"></th>
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Role1)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.RoleId">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.RoleId">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.RoleId">Delete</a>
-            </td>
-        </tr>
-}
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Role1)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.RoleId">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.RoleId">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.RoleId">Delete</a>
+                </td>
+            </tr>
+        }
     </tbody>
 </table>
